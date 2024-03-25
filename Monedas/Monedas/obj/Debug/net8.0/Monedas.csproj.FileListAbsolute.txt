@@ -1,0 +1,14 @@
+C:\Users\joniv\Desktop\facurespaldo\Tercer Año\Algoritmos2\Monedas\Monedas\bin\Debug\net8.0\Monedas.exe
+C:\Users\joniv\Desktop\facurespaldo\Tercer Año\Algoritmos2\Monedas\Monedas\bin\Debug\net8.0\Monedas.deps.json
+C:\Users\joniv\Desktop\facurespaldo\Tercer Año\Algoritmos2\Monedas\Monedas\bin\Debug\net8.0\Monedas.runtimeconfig.json
+C:\Users\joniv\Desktop\facurespaldo\Tercer Año\Algoritmos2\Monedas\Monedas\bin\Debug\net8.0\Monedas.dll
+C:\Users\joniv\Desktop\facurespaldo\Tercer Año\Algoritmos2\Monedas\Monedas\bin\Debug\net8.0\Monedas.pdb
+C:\Users\joniv\Desktop\facurespaldo\Tercer Año\Algoritmos2\Monedas\Monedas\obj\Debug\net8.0\Monedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joniv\Desktop\facurespaldo\Tercer Año\Algoritmos2\Monedas\Monedas\obj\Debug\net8.0\Monedas.AssemblyInfoInputs.cache
+C:\Users\joniv\Desktop\facurespaldo\Tercer Año\Algoritmos2\Monedas\Monedas\obj\Debug\net8.0\Monedas.AssemblyInfo.cs
+C:\Users\joniv\Desktop\facurespaldo\Tercer Año\Algoritmos2\Monedas\Monedas\obj\Debug\net8.0\Monedas.csproj.CoreCompileInputs.cache
+C:\Users\joniv\Desktop\facurespaldo\Tercer Año\Algoritmos2\Monedas\Monedas\obj\Debug\net8.0\Monedas.dll
+C:\Users\joniv\Desktop\facurespaldo\Tercer Año\Algoritmos2\Monedas\Monedas\obj\Debug\net8.0\refint\Monedas.dll
+C:\Users\joniv\Desktop\facurespaldo\Tercer Año\Algoritmos2\Monedas\Monedas\obj\Debug\net8.0\Monedas.pdb
+C:\Users\joniv\Desktop\facurespaldo\Tercer Año\Algoritmos2\Monedas\Monedas\obj\Debug\net8.0\Monedas.genruntimeconfig.cache
+C:\Users\joniv\Desktop\facurespaldo\Tercer Año\Algoritmos2\Monedas\Monedas\obj\Debug\net8.0\ref\Monedas.dll
